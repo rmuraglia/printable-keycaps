@@ -21,13 +21,16 @@ Recommended Row Assignments
 
 | Link | Stem | Spacing | Sprued | Notes |
 | --- | --- | --- | --- | --- |
+| [pseudoku](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles?tab=readme-ov-file#distorted-ellipsoidal-saddle-des) | MX | MX | no | this is the original source for these keycaps. There are no pre-exported STLs, but high quality porcelain cold casts are available at [asymplex.xyz](https://www.asymplex.xyz/) |
 | [sporkus](https://github.com/sporkus/PseudoMakeMeKeyCapProfiles) | MX | MX | yes |  |
 | [zzeneg](https://github.com/zzeneg/PseudoMakeMeKeyCapProfiles/tree/master?tab=readme-ov-file#update-from-zzeneg) | MX | various | yes | variants for: lower profile, reduced (but *not* choc) spacing |
 | [dohn-joh](https://github.com/dohn-joh/PseudoMakeMeKeyCapProfiles/tree/master?tab=readme-ov-file#changes) | MX | MX | no | low profile variant, compatible with choc v2 | 
 | [AlaaSaadAbdo](https://github.com/AlaaSaadAbdo/DES-spru) | MX and Choc | MX | yes | no thumb keys available |
-| [miketronic](https://github.com/miketronic/Keycaps) | Choc | Choc | yes | technically CFX spaced | 
-
-Like what you see? Buy the real deal at [asymplex.xyz/](https://www.asymplex.xyz/).
+| [miketronic](https://github.com/miketronic/Keycaps) | Choc | Choc | yes | technically CFX spaced |
+| [stl/DES-skeletyl](stl/DES-skeletyl) | ??? | ??? | ??? | skeletyl thumb keys |
+| [stl/DES-cornelius](stl/DES-cornelius) | ??? | ??? | ??? | cornelius thumb keys |
+| [stl/DES-T15](stl/DES-T15) | ??? | ??? | ??? | custom 1.5u thumb key |
+| [PyntieHet](https://github.com/PyntieHet/DES-Choc/tree/main) | ??? | ??? | ??? | various homing and thumb keys |
 
 ## CS: Chicago Stenographer
 
@@ -44,17 +47,14 @@ Recommended Row Assignments
 
 | Link | Stem | Spacing | Sprued | Notes |
 | --- | --- | --- | --- | --- |
+| [pseudoku](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles?tab=readme-ov-file#chicago-stenographer) | Choc | Choc | no | this is the original source for these keycaps. There are no pre-exported STLs, but high quality porcelain cold casts are available at [asymplex.xyz](https://www.asymplex.xyz/) |
 | [sporkus](https://github.com/sporkus/PseudoMakeMeKeyCapProfiles) | Choc | Choc | yes |  |
 | [infused-kim](https://github.com/infused-kim/kb_keycaps_chicago_stenographer) | Choc | Choc | yes | extremely comprehensive documentation |
-
-
-Like what you see? Buy the real deal at [asymplex.xyz/](https://www.asymplex.xyz/).
 
 ## TODOs
 
 - [OLS profile](https://github.com/DeltaWhy/ols)
 - [KLP lame](https://github.com/braindefender/KLP-Lame-Keycaps)
 - [FDM printing guide](https://github.com/levpopov/LPX?tab=readme-ov-file#fdm-printing-guide)
-- Bravekarma has some DES thumb stl floating around in discord [maybe?](https://discord.com/channels/939959680611020840/942289799555989515/1246346708271501362), [des cornelius?](https://discord.com/channels/939959680611020840/960978879223328828/1186225200048656465)
 - MX spaced CS: [cs fat](https://github.com/DeltaWhy/PseudoMakeMeKeyCapProfiles/tree/master/stl/Choc), [damselfly](https://discord.com/channels/939959680611020840/1255927743976177685/1277747154718556200)
-- [pyntie](https://github.com/PyntieHet/DES-Choc/tree/main) des choc thumbs
+- lsda in lowprokb pins (probably has stems that are too thick and need shaving?)
