@@ -55,6 +55,6 @@ Like what you see? Buy the real deal at [asymplex.xyz/](https://www.asymplex.xyz
 - [OLS profile](https://github.com/DeltaWhy/ols)
 - [KLP lame](https://github.com/braindefender/KLP-Lame-Keycaps)
 - [FDM printing guide](https://github.com/levpopov/LPX?tab=readme-ov-file#fdm-printing-guide)
-- Add license
 - Bravekarma has some DES thumb stl floating around in discord [maybe?](https://discord.com/channels/939959680611020840/942289799555989515/1246346708271501362), [des cornelius?](https://discord.com/channels/939959680611020840/960978879223328828/1186225200048656465)
 - MX spaced CS: [cs fat](https://github.com/DeltaWhy/PseudoMakeMeKeyCapProfiles/tree/master/stl/Choc), [damselfly](https://discord.com/channels/939959680611020840/1255927743976177685/1277747154718556200)
+- [pyntie](https://github.com/PyntieHet/DES-Choc/tree/main) des choc thumbs
