@@ -45,7 +45,7 @@ Recommended Row Assignments
 | Link | Stem | Spacing | Sprued | Notes |
 | --- | --- | --- | --- | --- |
 | [sporkus](https://github.com/sporkus/PseudoMakeMeKeyCapProfiles) | Choc | Choc | yes |  |
-| [kim](https://github.com/sporkus/PseudoMakeMeKeyCapProfiles) | Choc | Choc | yes | extremely comprehensive documentation |
+| [infused-kim](https://github.com/infused-kim/kb_keycaps_chicago_stenographer) | Choc | Choc | yes | extremely comprehensive documentation |
 
 
 Like what you see? Buy the real deal at [asymplex.xyz/](https://www.asymplex.xyz/).
