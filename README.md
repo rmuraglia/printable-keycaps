@@ -50,11 +50,15 @@ Recommended Row Assignments
 | [pseudoku](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles?tab=readme-ov-file#chicago-stenographer) | Choc | Choc | no | this is the original source for these keycaps. There are no pre-exported STLs, but high quality porcelain cold casts are available at [asymplex.xyz](https://www.asymplex.xyz/) |
 | [sporkus](https://github.com/sporkus/PseudoMakeMeKeyCapProfiles) | Choc | Choc | yes |  |
 | [infused-kim](https://github.com/infused-kim/kb_keycaps_chicago_stenographer) | Choc | Choc | yes | extremely comprehensive documentation |
+| [DeltaWhy](https://github.com/DeltaWhy/PseudoMakeMeKeyCapProfiles/tree/master/stl/Choc) | Choc | MX | no | CS Fat = MX spaced CS |
+| [rschenk](https://github.com/rschenk/cfx_chicago_stenographer) | Choc | CFX | yes |  |
+| [stl/CS-MX](stl/CS-MX) | Choc | MX | yes |  |
 
-## TODOs
+## Other resources
 
-- [OLS profile](https://github.com/DeltaWhy/ols)
-- [KLP lame](https://github.com/braindefender/KLP-Lame-Keycaps)
 - [FDM printing guide](https://github.com/levpopov/LPX?tab=readme-ov-file#fdm-printing-guide)
-- MX spaced CS: [cs fat](https://github.com/DeltaWhy/PseudoMakeMeKeyCapProfiles/tree/master/stl/Choc), [damselfly](https://discord.com/channels/939959680611020840/1255927743976177685/1277747154718556200)
-- lsda in lowprokb pins (probably has stems that are too thick and need shaving?)
+- Other awesome profiles:
+    - [OLS](https://github.com/DeltaWhy/ols)
+    - [KLP lame](https://github.com/braindefender/KLP-Lame-Keycaps)
+    - [CMY](https://github.com/sadekbaroudi/fingerpunch/tree/master/keycaps/CMY)
+
