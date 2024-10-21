@@ -54,6 +54,15 @@ Recommended Row Assignments
 | [rschenk](https://github.com/rschenk/cfx_chicago_stenographer) | Choc | CFX | yes |  |
 | [stl/CS-MX](stl/CS-MX) | Choc | MX | yes |  |
 
+## OLS: Open Low-Profile Spherical
+
+[source](https://github.com/DeltaWhy/ols)
+
+| Link | Stem | Spacing | Sprued | Notes | 
+ --- | --- | --- | --- | --- |
+ | [DeltaWhy](https://github.com/DeltaWhy/ols) | Various | Various | Various | for most combinations, check his repo first |
+ | [stl/OLS](stl/OLS) | MX | Choc | yes | this unusual combo was shared on discord, and now archived here |
+
 ## Other resources
 
 - [FDM printing guide](https://github.com/levpopov/LPX?tab=readme-ov-file#fdm-printing-guide)
